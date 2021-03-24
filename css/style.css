@@ -1,0 +1,44 @@
+.header{
+    width: 100%;
+    background-color: burlywood;
+}
+.s1{
+    display: inline-block;
+}
+.container{
+    overflow: hidden;
+}
+.blog{
+    width: 60%;
+    float: left;
+    min-height: 50px;
+    background-color: aqua;
+}
+.contact{
+    width: 40%;
+    float: left;
+    min-height: 50px;
+    background-color: cadetblue;
+}
+.footer{
+    width: 100%;
+    min-height: 50px;
+    background-color: lavender;
+}
+.wrapper{
+    overflow: hidden;
+}
+.box{
+	width: 33.33%;
+	float: left;
+	min-height: 50px;
+}
+.teal{
+	background-color: teal;
+}
+.yellow{
+	background-color: yellow;
+}
+.aqua{
+	background-color: aqua;
+}
